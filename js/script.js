@@ -2,5 +2,7 @@ $(document).ready(function() {
 $(".clickable").click(function(){
 $(".about-me-hid").slideToggle();
 });
-consoleLog("Hello World");
+$(".clickable1").click(function() {
+  $(".background-hiding").slideToggle();
+});
 });

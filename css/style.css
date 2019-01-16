@@ -38,6 +38,12 @@ h4{
 .about-me-hid{
   display: none;
 }
+.background-hiding{
+  display: none;
+}
 .clickable{
+  cursor: pointer;
+}
+.clickable1{
   cursor: pointer;
 }
